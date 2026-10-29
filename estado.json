@@ -1,1 +1,32 @@
-{}
+{
+ "E16": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:56:45.911983Z"
+ },
+ "S1": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:56:54.493119Z"
+ },
+ "S3": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:58:16.269599Z"
+ },
+ "S4": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:58:19.054127Z"
+ },
+ "S5": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:58:20.892991Z"
+ },
+ "S6": {
+  "tipo": "aprobado",
+  "v": null,
+  "hora": "2026-10-29T14:58:22.258415Z"
+ }
+}
